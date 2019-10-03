@@ -1,0 +1,44 @@
+html,body {
+   margin: 0;
+    height: 100%;
+
+}
+
+body {
+    background-color: blue;
+}
+
+#boven {
+    background-color: #BFC0C0;
+    height: 10%;
+    width: 100%%;
+}
+
+#container {
+    background-color: pink;
+    height: 90%;
+    width: 100%;
+    display: flex;
+
+}
+
+#menu {
+    background-color: #ADD6F2;
+    height: 100%;
+    width: 10%;
+
+}
+
+#blog {
+    background-color: #3078BE;
+    height: 100%;
+    width: 60%;
+
+}
+
+#plaatjes {
+    background-color: #102542;
+    height: 100%;
+    width: 30%;
+
+}
