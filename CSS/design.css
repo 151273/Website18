@@ -30,15 +30,7 @@ li a:hover {
   background-color: #111;
 }
 
-p {
-    color:black;
-    font-family: 'Nunito', sans-serif;
-    margin: 0px;
-    margin-left: 6px;
-    
-}
-
-h1 {
+#menu h1 {
     color: black;
     font-family:'Merriweather Sans', sans-serif;
     font-size: 100%;
@@ -48,34 +40,102 @@ h1 {
     
 }
 
-h2 {
+#Welkom h2 {
     color: black;
     font-family: 'Roboto', sans-serif;
     font-size: 100%;
+    text-align:center;
     Padding: 3px;
     margin-left: 4px;
 }
 
-h3 {
+#Welkom h3 {
     color:black;
     font-family: 'Oswald', sans-serif;
     font-size: 100%;
+    text-align:center;
     padding: 3px;
+    margin-right: 4px;
     margin-left: 4px;
 }
 
-h4 {
+#Welkom p {
+    color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#informatie h2 {
+    color:black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+
+}
+
+#informatie p {
+    color:black;
+    text-align:center;
+
+}
+
+#Geschiedenis h3 {
+    color:black;
+    text-align:center;
+
+}
+
+#Geschiedenis p {
+    color:black;
+    text-align:center;
+
+}
+
+#Cultuur h4 {
     color:black;
     font-family: 'Questrial', sans-serif;
     font-size: 100%;
+    text-align:center;
     padding: 3px;
     margin-left: 4px;
 }
 
-h5 {
+#Cultuur p {
     color:black;
+    text-align:center;
+}
+
+#Weetjes h2 {
+    color:black;
+    text-align:center;
+}
+
+#Weetjes p {
+    color:black;
+    text-align:center;
+    margin-left: 4px;
+}
+
+#Colofon h2 {
+    color:black;
+    text-align:center;
+}
+
+#Colofon p {
+    color:black;
+    text-align:center;
+}
+
+
+#Checker h5 {
+    color:black;
+    text-align:center;
     margin-left: 4px;
     margin-bottom: 2px;
+}
+
+#Checker p {
+    color:black;
+    text-align:center;
 }
 
 li {
@@ -84,7 +144,7 @@ li {
     float: left;
 }
 
-a:link {color:black}
+a:link {color:white}
 a:visited {color:white}
-a:hover {color:red}
-a:active {color:#99B2FF}
+a:hover {color:white}
+a:active {color:white}
