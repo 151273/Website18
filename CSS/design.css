@@ -128,13 +128,24 @@ li a:hover {
     margin-left: 4px;
 }
 
-#rechts img {
+#midden img {
     border-style: solid;
     display: block;
-    margin-left: auto;
-    margin-right: auto; 
     width: 150px;
     height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 19px;
+}
+
+#links img {
+    border-style: solid;
+    display:block;
+    width: 186px;
+    height: 230px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 53px;  
 }
 
 li {
