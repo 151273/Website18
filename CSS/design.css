@@ -41,7 +41,8 @@ li a:hover {
     display: block;
     width: 80px;
     height: 50px;
-    margin-left: 673px;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 #Welkom h1 {
@@ -130,7 +131,8 @@ li a:hover {
 #rechts img {
     border-style: solid;
     display: block;
-    margin-left: 1200px; 
+    margin-left: auto;
+    margin-right: auto; 
     width: 150px;
     height: 250px;
 }
